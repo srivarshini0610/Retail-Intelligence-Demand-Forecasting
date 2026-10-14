@@ -575,12 +575,4 @@ Potential extensions to the project include:
 - Power BI Service deployment
 - Pipeline orchestration
 
----
-
-## Author
-
-**Palden Tamang**
-
-Computer Science | Data Analytics | Software Development
-
-GitHub: **TAMANGP2**
+-
